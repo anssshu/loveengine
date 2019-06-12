@@ -1,0 +1,51 @@
+LOVE ENGINE
+
+I am going to create a simple game engine based on the love 2d game engine .
+Its an entity component based system .
+
+plus certain classed will be used .
+wind field library will be used for the physics
+the engine will be with MIT license
+
+
+feature Classes
+
+Game 
+World
+Scene 
+Entity 
+Component 
+
+Background
+Camera
+Player
+AudioLibrary
+UIButton
+UITextInput
+ParallaxBackground
+ScrollingBackground
+
+
+
+List of components
+Sprite
+Animation
+RigidBody
+StaticBody
+KinematicBody
+RectShape
+CircleShape
+PolygonShape
+Ray 
+Particle
+
+
+
+
+
+
+
+
+
+
+
